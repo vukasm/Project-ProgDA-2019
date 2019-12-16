@@ -11,5 +11,3 @@ In Part I. of the Jupyter notebook file, I will explain the research problem and
 
 ### How to run the code  
 1. Make sure you have Python installed.  
-
-### Files
